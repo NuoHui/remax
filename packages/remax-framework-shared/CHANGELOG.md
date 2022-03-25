@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.15.12](https://github.com/remaxjs/remax/compare/v2.15.11...v2.15.12) (2022-01-11)
+
+**Note:** Version bump only for package @remax/framework-shared
+
+## [2.15.11](https://github.com/remaxjs/remax/compare/v2.15.10...v2.15.11) (2022-01-05)
+
+**Note:** Version bump only for package @remax/framework-shared
+
+## [2.15.10](https://github.com/remaxjs/remax/compare/v2.15.9...v2.15.10) (2021-12-18)
+
+**Note:** Version bump only for package @remax/framework-shared
+
+## [2.15.9](https://github.com/remaxjs/remax/compare/v2.15.7...v2.15.9) (2021-12-06)
+
+### Features
+
+- 增加 hook unstable_onEntries, 允许修改 entry 的路径 ([6dc51d7](https://github.com/remaxjs/remax/commit/6dc51d7076d3ac5c97d66770f1e142ddcd7de09a))
+
 ## [2.15.8](https://github.com/remaxjs/remax/compare/v2.15.7...v2.15.8) (2021-11-23)
 
 **Note:** Version bump only for package @remax/framework-shared

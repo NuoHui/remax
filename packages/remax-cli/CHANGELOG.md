@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.15.12](https://github.com/remaxjs/remax/compare/v2.15.11...v2.15.12) (2022-01-11)
+
+**Note:** Version bump only for package @remax/cli
+
+## [2.15.11](https://github.com/remaxjs/remax/compare/v2.15.10...v2.15.11) (2022-01-05)
+
+### Bug Fixes
+
+- 去掉 Babel 缓存 ([#1812](https://github.com/remaxjs/remax/issues/1812)) ([159ae6d](https://github.com/remaxjs/remax/commit/159ae6dc28436f768d0120d39585d59558fe3d5f))
+
+## [2.15.10](https://github.com/remaxjs/remax/compare/v2.15.9...v2.15.10) (2021-12-18)
+
+### Bug Fixes
+
+- **toutiao:** 新增 MovableArea/MovableView 组件 ([18fffef](https://github.com/remaxjs/remax/commit/18fffef670cc4dbe6d3d0ea532fb944cc4f4adf7))
+- **wechat:** 新增 MovableView 和 Slider 的 onTouchStart 和 onTouchEnd 事件([#1790](https://github.com/remaxjs/remax/issues/1790)) ([0748bff](https://github.com/remaxjs/remax/commit/0748bff988840d83ed44c192255f6ad6e49790eb)), closes [#1468](https://github.com/remaxjs/remax/issues/1468)
+
+### Performance Improvements
+
+- **cli:** 开启 babel-loader 缓存，优化编译速度 ([#1789](https://github.com/remaxjs/remax/issues/1789)) ([2f41917](https://github.com/remaxjs/remax/commit/2f41917004b9f5e0875e077edd8e4a387f0e4ef9))
+
+## [2.15.9](https://github.com/remaxjs/remax/compare/v2.15.7...v2.15.9) (2021-12-06)
+
+### Features
+
+- 增加 hook unstable_onEntries, 允许修改 entry 的路径 ([6dc51d7](https://github.com/remaxjs/remax/commit/6dc51d7076d3ac5c97d66770f1e142ddcd7de09a))
+- 增加 hook unstable_onEntries, 允许修改 entry 的路径 ([14d4b95](https://github.com/remaxjs/remax/commit/14d4b95d916a55e4ecbe5fbda933bbc57018d7df))
+
 ## [2.15.8](https://github.com/remaxjs/remax/compare/v2.15.7...v2.15.8) (2021-11-23)
 
 **Note:** Version bump only for package @remax/cli
